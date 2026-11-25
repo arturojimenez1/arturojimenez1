@@ -31,28 +31,3 @@ const arturo = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=arturojimenez1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
-
----
-
-### `$ cat contact.json`
-
-```json
-{
-  "github": "https://github.com/arturojimenez1",
-  "linkedin": "https://linkedin.com/in/TU-USUARIO",
-  "portfolio": "https://tu-portafolio.dev",
-  "email": "tu-correo@ejemplo.com"
-}
-```
-
-<p align="left">
-  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
-  </a>
-  <a href="https://tu-portafolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff" alt="Portfolio" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff" alt="Email" />
-  </a>
-</p>
